@@ -27,7 +27,7 @@ This will launch a custom template for the Azure portal instance that you are lo
 
 This will take about 2-5 minutes to provision.
 
-![Custom deployment](https://raw.githubusercontent.com/Azure-Samples/azure-event-grid-viewer/main/customdeployment_sm.png)
+![Custom deployment](https://raw.githubusercontent.com/rramoscabral/azure-event-grid-viewer/main/customdeployment_sm.png)
 
 ### 3. Launch the site
 

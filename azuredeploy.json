@@ -22,7 +22,14 @@
           "B1",
           "B2",
           "B3",
-          "S1"
+          "S1",
+          "S2",
+          "P0v3",
+          "P1v3",
+          "P1mv3",
+          "P2v3",
+          "P2mv3",
+          "P2mv3"
         ],
         "defaultValue": "F1",
         "metadata": {
